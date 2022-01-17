@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Work With**
+- __*C#*__
+- ***ASP.NET Core***
+- _**SQL Server**_
